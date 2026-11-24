@@ -5,7 +5,7 @@ This repository contains the records, decisions, extracted data and analysis cod
 > Rekhert, M. (2026). *How common is kratom use disorder among people who use kratom? A systematic review and meta-analysis* [Manuscript submitted for publication]. Preprint: https://doi.org/10.5281/zenodo.24512208
 
 - Protocol (OSF Registries, registered 21 November 2026 before the final search and screening): https://doi.org/10.17605/OSF.IO/6D7N3
-- Archived release (Zenodo): forthcoming
+- Archived release (Zenodo): https://doi.org/10.5281/zenodo.24512279
 - Author: Martin Rekhert, Higher School of Psychology, Turan University, Almaty, Kazakhstan (ORCID [0009-0001-2402-2031](https://orcid.org/0009-0001-2402-2031))
 
 ## The review in brief
