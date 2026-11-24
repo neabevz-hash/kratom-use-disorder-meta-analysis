@@ -1,0 +1,7 @@
+outcome,k,prevalence,risk_of_bias,inconsistency,imprecision,indirectness,publication_bias,certainty
+L2 moderate-to-severe or dependence (primary),12,29.1 (6.9-69.4),serious,very serious (PI width 99 pp),serious,serious,not detected,very low
+L1 any use disorder,7,30.8 (22.5-40.7),serious,serious (PI width 47 pp),serious,serious,not detected,very low
+L3 severe use disorder,5,5.1 (2.7-9.3),serious,not serious (PI width 18 pp),not serious,serious,not detected,low
+"L2, North America",5,10.2 (4.8-20.5),serious,serious (PI width 44 pp),serious,serious,not detected,very low
+"L1, North America",5,28.6 (18.7-41),serious,very serious (PI width 51 pp),serious,serious,not detected,very low
+"L3, North America",4,6.5 (4.2-10),serious,not serious (PI width 13 pp),not serious,serious,not detected,low

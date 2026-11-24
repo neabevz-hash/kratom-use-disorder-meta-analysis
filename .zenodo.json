@@ -1,0 +1,29 @@
+{
+  "title": "Kratom use disorder among people who use kratom: data and code",
+  "upload_type": "dataset",
+  "description": "<p>Records, decisions, extracted data and analysis code for a registered systematic review and meta-analysis of the prevalence of kratom use disorder and dependence among people who use kratom (search 21 November 2026; 14 studies, 14 samples, 6,859 people who use kratom). The repository includes the protocol and deviations log, search logs and records, two AI screening passes with the reviewer's blind calibration and decisions, AI full-text proposals with the reviewer's decisions, AI extraction drafts with the reviewer's verification, the analysis tables, R and Python analysis scripts, results, figures, Tables 1-4 and Supplementary Files S1-S9.</p>",
+  "creators": [
+    {
+      "name": "Rekhert, Martin",
+      "affiliation": "Higher School of Psychology, Turan University, Almaty, Kazakhstan",
+      "orcid": "0009-0001-2402-2031"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "kratom",
+    "Mitragyna speciosa",
+    "substance use disorder",
+    "dependence",
+    "prevalence",
+    "meta-analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/6D7N3",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ],
+  "language": "eng"
+}

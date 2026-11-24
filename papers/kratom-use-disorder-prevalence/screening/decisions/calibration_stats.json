@@ -1,0 +1,174 @@
+{
+  "run": "2026-11-21",
+  "ai_labels_sha256": {
+    "opus": "a1478374c085f1067bbe4003c886aff8746502460dec7fe19fe59edf14464b86",
+    "sonnet": "6eb78d866c4766c513a43fe5bb14e9cd8cef31f1823fe2d5829d0bc6254b609b"
+  },
+  "n_calibration": 300,
+  "n_compared": 300,
+  "calibration_records_without_ai_label": [],
+  "passes": {
+    "opus": {
+      "three_labels": {
+        "agreement": 0.98,
+        "kappa": 0.9027552674230145,
+        "kappa_ci": [
+          0.8167827042872847,
+          0.9707402711401539
+        ],
+        "confusion": {
+          "R1_include": {
+            "AI_include": 7,
+            "AI_unsure": 0,
+            "AI_exclude": 0
+          },
+          "R1_unsure": {
+            "AI_include": 2,
+            "AI_unsure": 23,
+            "AI_exclude": 3
+          },
+          "R1_exclude": {
+            "AI_include": 0,
+            "AI_unsure": 1,
+            "AI_exclude": 264
+          }
+        }
+      },
+      "full_text_vs_exclude": {
+        "agreement": 0.9866666666666667,
+        "kappa": 0.933665008291874,
+        "kappa_ci": [
+          0.8562606473594547,
+          0.9851013110846247
+        ],
+        "ac1": 0.9833129380353764,
+        "ac1_ci": [
+          0.9651669085631349,
+          0.996026726883828
+        ],
+        "sensitivity": 0.9142857142857143,
+        "sensitivity_ci": [
+          0.7694249813411229,
+          0.9819623601857825
+        ],
+        "specificity": 0.9962264150943396,
+        "specificity_ci": [
+          0.9791553939065685,
+          0.9999044656656413
+        ],
+        "counts": {
+          "tp": 32,
+          "fn": 3,
+          "tn": 264,
+          "fp": 1
+        }
+      }
+    },
+    "sonnet": {
+      "three_labels": {
+        "agreement": 0.9733333333333334,
+        "kappa": 0.8750000000000002,
+        "kappa_ci": [
+          0.7754771111388298,
+          0.9520741253527877
+        ],
+        "confusion": {
+          "R1_include": {
+            "AI_include": 7,
+            "AI_unsure": 0,
+            "AI_exclude": 0
+          },
+          "R1_unsure": {
+            "AI_include": 1,
+            "AI_unsure": 24,
+            "AI_exclude": 3
+          },
+          "R1_exclude": {
+            "AI_include": 0,
+            "AI_unsure": 4,
+            "AI_exclude": 261
+          }
+        }
+      },
+      "full_text_vs_exclude": {
+        "agreement": 0.9766666666666667,
+        "kappa": 0.8881789137380193,
+        "kappa_ci": [
+          0.7932330827067672,
+          0.9580615097856476
+        ],
+        "ac1": 0.9705141075954254,
+        "ac1_ci": [
+          0.9445333333333333,
+          0.9913845093478072
+        ],
+        "sensitivity": 0.9142857142857143,
+        "sensitivity_ci": [
+          0.7694249813411229,
+          0.9819623601857825
+        ],
+        "specificity": 0.9849056603773585,
+        "specificity_ci": [
+          0.9618056017987615,
+          0.99587238529255
+        ],
+        "counts": {
+          "tp": 32,
+          "fn": 3,
+          "tn": 261,
+          "fp": 4
+        }
+      }
+    }
+  },
+  "ai_rule_full_text_unless_both_exclude": {
+    "agreement": 0.98,
+    "kappa": 0.9053129931614938,
+    "kappa_ci": [
+      0.8153277931671282,
+      0.9698704429044891
+    ],
+    "ac1": 0.9746450304259635,
+    "ac1_ci": [
+      0.95026112907237,
+      0.9918169171599248
+    ],
+    "sensitivity": 0.9428571428571428,
+    "sensitivity_ci": [
+      0.8084285936547608,
+      0.9930032363716905
+    ],
+    "specificity": 0.9849056603773585,
+    "specificity_ci": [
+      0.9618056017987615,
+      0.99587238529255
+    ],
+    "counts": {
+      "tp": 33,
+      "fn": 2,
+      "tn": 261,
+      "fp": 4
+    }
+  },
+  "passes_agreement_full_text_vs_exclude": {
+    "agreement": 0.9833333333333333,
+    "kappa": 0.9181401440733462
+  },
+  "safeguard_triggered": true,
+  "rule_false_negatives": [
+    "R0807",
+    "R2269"
+  ],
+  "single_pass_false_negatives": {
+    "opus": [
+      "R0807",
+      "R1500",
+      "R2269"
+    ],
+    "sonnet": [
+      "R1004",
+      "R0807",
+      "R2269"
+    ]
+  }
+}

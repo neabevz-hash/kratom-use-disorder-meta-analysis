@@ -1,0 +1,63 @@
+{
+  "run": "2026-11-21",
+  "records_screened": 2304,
+  "missing_decisions": [],
+  "to_full_text": 235,
+  "excluded_title_abstract": 2069,
+  "final_labels": {
+    "exclude": 2069,
+    "unsure": 191,
+    "include": 44
+  },
+  "by_stage": {
+    "calibration (agreed with AI rule)": {
+      "exclude": 261,
+      "unsure": 26,
+      "include": 7
+    },
+    "calibration (resolved, labels shown)": {
+      "exclude": 6
+    },
+    "double AI exclusion (not re-screened)": {
+      "exclude": 605
+    },
+    "re-screening (blind, safeguard)": {
+      "exclude": 1154
+    },
+    "verification (AI labels shown)": {
+      "unsure": 165,
+      "exclude": 43,
+      "include": 37
+    }
+  },
+  "verification": {
+    "records": 245,
+    "passes_agree": 198,
+    "accepted_ai_label_with_equals": 183,
+    "r1_excluded_although_a_pass_kept": 43,
+    "r1_excluded_although_both_kept": 7,
+    "final_by_pass_pattern": {
+      "both_kept": {
+        "unsure": 160,
+        "include": 37,
+        "exclude": 7
+      },
+      "one_kept": {
+        "unsure": 5,
+        "exclude": 36
+      }
+    }
+  },
+  "calibration_resolutions": {
+    "records": 6,
+    "final_equals_r1_blind": 4,
+    "full_text_after_resolution": 0
+  },
+  "safeguard": {
+    "re_screened": 1154,
+    "moved_to_full_text": 0,
+    "moved_include": 0,
+    "moved_unsure": 0,
+    "not_re_screened": 605
+  }
+}

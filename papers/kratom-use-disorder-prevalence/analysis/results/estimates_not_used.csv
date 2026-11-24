@@ -1,0 +1,8 @@
+sample_id,level,code,instrument,time_frame,cases,n,pct,how,estimate_ids,first_author,year,country,region,sample_type,sampling,recruitment_channel,use_period,regular_use_required,product_form,n_users,pub_status,pct_other_opioid_use,jbi_2,jbi_6,jbi_9
+S03,L2,L2-screen,ASSIST,current,7,208,3.4,direct,E026,Nimphae,2025,THA,Southeast Asia,other,NR,general,lifetime any,no,mixed,208,journal,NR,unclear,yes,unclear
+S06,L1,L1,DSM-5-SUD,lifetime,251,395,63.5,direct,E043,Rogers,2024,USA,North America,online_consumers,online opt-in,advocacy or vendor channels,current,>=3 times weekly for >=4 weeks,commercial powder or capsules,395,journal,NR,no,yes,no
+S06,L2,L2,DSM-5-SUD,lifetime,120,395,30.4,sum of bands,E045+E046,Rogers,2024,USA,North America,online_consumers,online opt-in,advocacy or vendor channels,current,>=3 times weekly for >=4 weeks,commercial powder or capsules,395,journal,NR,no,yes,no
+S06,L3,L3,DSM-5-SUD,lifetime,42,395,10.6,direct,E046,Rogers,2024,USA,North America,online_consumers,online opt-in,advocacy or vendor channels,current,>=3 times weekly for >=4 weeks,commercial powder or capsules,395,journal,NR,no,yes,no
+S09,L1,L1,DSM-5-SUD,lifetime,40,129,31,direct,E064,Smith,2022,USA,North America,online_consumers,online opt-in,general,lifetime any,no,commercial powder or capsules,129,journal,NR,no,yes,yes
+S09,L2,L2,DSM-5-SUD,lifetime,2,129,1.6,sum of bands,E067+E068,Smith,2022,USA,North America,online_consumers,online opt-in,general,lifetime any,no,commercial powder or capsules,129,journal,NR,no,yes,yes
+S09,L3,L3,DSM-5-SUD,lifetime,1,129,0.8,direct,E068,Smith,2022,USA,North America,online_consumers,online opt-in,general,lifetime any,no,commercial powder or capsules,129,journal,NR,no,yes,yes

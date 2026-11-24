@@ -1,0 +1,88 @@
+﻿rec_id,k,file,code,decision,reason,note,where,ai_code
+R0060,1,ft_R1_01.md,=+,eligible,,,,+
+R0076,2,ft_R1_01.md,=-1,not_eligible,E5_design,,,-1
+R0122,3,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0221,4,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0263,5,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0326,6,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0366,7,ft_R1_01.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R0430,8,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0492,9,ft_R1_01.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R0499,10,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0768,11,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0788,12,ft_R1_01.md,-1,not_eligible,E5_design,протокол исследования без эмпирических данных,,?
+R0816,13,ft_R1_01.md,=+,eligible,,,,+
+R0828,14,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0873,15,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0911,16,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0912,17,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0922,18,ft_R1_01.md,=+,eligible,,,,+
+R0945,19,ft_R1_01.md,-7,not_eligible,no_extractable_counts,"только коэффициенты регрессии (OR), нет числа или доли с порогом",,?
+R0946,20,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0947,21,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R0957,22,ft_R1_01.md,=-1,not_eligible,E5_design,,,-1
+R1010,23,ft_R1_01.md,=-1,not_eligible,E5_design,,,-1
+R1155,24,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1161,25,ft_R1_01.md,+,eligible,,"подходит: выборка 60 регулярных потребителей в Малайзии, оценена тяжесть зависимости по KDS (Table 4.3, Fig 4.17)",,?
+R1294,26,ft_R1_01.md,=+,eligible,,,,+
+R1331,27,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1376,28,ft_R1_01.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R1402,29,ft_R1_01.md,=+,eligible,,,,+
+R1425,30,ft_R1_01.md,=+,eligible,,,,+
+R1427,31,ft_R1_01.md,=-7,not_eligible,no_extractable_counts,,,-7
+R1428,32,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1429,33,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1439,34,ft_R1_01.md,-4,not_eligible,E4_no_dependence_measure,"диссертация о факторах риска у подростков, нет валидированной меры зависимости от кратома",,?
+R1492,35,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1500,36,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1501,37,ft_R1_01.md,-1,not_eligible,E5_design,"техническое задание на дипломную работу, нет текста и эмпирических данных",,?
+R1607,38,ft_R1_01.md,-4,not_eligible,E4_no_dependence_measure,"фМРТ исследование дыхательного центра, нет меры зависимости от кратома",,?
+R1636,39,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1657,40,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1786,41,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1815,42,ft_R1_01.md,=-1,not_eligible,E5_design,,,-1
+R1857,43,ft_R1_01.md,=+,eligible,,,,+
+R1861,44,ft_R1_01.md,=-2,not_eligible,E1_selected_sample,,,-2
+R1866,45,ft_R1_01.md,-7,not_eligible,no_extractable_counts,"лабораторное исследование SPECT n=12, нет эпидемиологического знаменателя и доли",,?
+R1946,46,ft_R1_01.md,=-7,not_eligible,no_extractable_counts,,,-7
+R1980,47,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R1983,48,ft_R1_01.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2010,49,ft_R1_01.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R2012,50,ft_R1_01.md,=-1,not_eligible,E5_design,,,-1
+R2039,51,ft_R1_02.md,=+,eligible,,,,+
+R2041,52,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2118,53,ft_R1_02.md,-7,not_eligible,no_extractable_counts,"шкала KDS представлена только средними баллами по доменам (Table 4.1), нет числа/доли с порогом",,?
+R2123,54,ft_R1_02.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R2129,55,ft_R1_02.md,=+,eligible,,,,+
+R2131,56,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2149,57,ft_R1_02.md,=+,eligible,,,,+
+R2151,58,ft_R1_02.md,=-7,not_eligible,no_extractable_counts,,,-7
+R2153,59,ft_R1_02.md,=+,eligible,,,,+
+R2154,60,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2370,61,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2379,62,ft_R1_02.md,=-1,not_eligible,E5_design,,,-1
+R2456,63,ft_R1_02.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R2516,64,ft_R1_02.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R2551,65,ft_R1_02.md,=-1,not_eligible,E5_design,,,-1
+R2593,66,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2629,67,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2648,68,ft_R1_02.md,=+,eligible,,,,+
+R2696,69,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2787,70,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R2808,71,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R3004,72,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R3133,73,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R3201,74,ft_R1_02.md,=-5,not_eligible,E2_no_kratom_user_estimate,,,-5
+R3299,75,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R3551,76,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R3595,77,ft_R1_02.md,=-4,not_eligible,E4_no_dependence_measure,,,-4
+R3754,78,ft_R1_02.md,+,eligible,,"подходит: выборка регулярных потребителей в Малайзии, тяжелая зависимость по шкале LDQ 55% (n=153/276)",,?
+R3771,79,ft_R1_02.md,-4,not_eligible,E4_no_dependence_measure,"нейрокогнитивное исследование, нет меры зависимости или расстройства для кратома",,?
+R4381,80,ft_R1_02.md,=-7,not_eligible,no_extractable_counts,,,-7
+R1255,81,ft_R1_03.md,=+,eligible,,,,+
+R3639,82,ft_R1_03.md,=+,eligible,,,,+
+R2844,83,ft_R1_03.md,=+,eligible,,,,+
+R0243,84,ft_R1_03.md,=+,eligible,,,,+
+R0815,85,ft_R1_03.md,-7,not_eligible,no_extractable_counts,"только модельные условные вероятности LCA (Pc), нет наблюдаемой доли с порогом",,?
+R3074,86,ft_R1_03.md,=-7,not_eligible,no_extractable_counts,,,-7
+R3541,87,ft_R1_03.md,=-4,not_eligible,E4_no_dependence_measure,,,-4

@@ -1,0 +1,88 @@
+{
+  "run_at_utc": "2026-11-24T09:21:23+00:00",
+  "included_reports": 18,
+  "seeds_in_openalex": 15,
+  "per_report": {
+    "R0060": {
+      "openalex": "W7215133244",
+      "references": 26,
+      "citing": 0
+    },
+    "R0816": {
+      "openalex": "W4416245511",
+      "references": 72,
+      "citing": 1
+    },
+    "R0922": {
+      "openalex": "W4405560382",
+      "references": 12,
+      "citing": 0
+    },
+    "R1161": {
+      "openalex": "W7112771675",
+      "references": 0,
+      "citing": 0
+    },
+    "R1294": {
+      "openalex": "W7135827631",
+      "references": 0,
+      "citing": 0
+    },
+    "R1402": {
+      "openalex": "W4398147022",
+      "references": 28,
+      "citing": 39
+    },
+    "R1425": {
+      "openalex": "W4391252317",
+      "references": 37,
+      "citing": 65
+    },
+    "R1857": {
+      "openalex": "W4381839556",
+      "references": 42,
+      "citing": 4
+    },
+    "R2039": {
+      "openalex": "W7135691365",
+      "references": 0,
+      "citing": 0
+    },
+    "R2129": "not in OpenAlex",
+    "R2149": {
+      "openalex": "W4214595950",
+      "references": 15,
+      "citing": 45
+    },
+    "R2153": {
+      "openalex": "W4214760746",
+      "references": 81,
+      "citing": 55
+    },
+    "R2648": {
+      "openalex": "W3004192768",
+      "references": 43,
+      "citing": 204
+    },
+    "R3754": "not in OpenAlex",
+    "R1255": {
+      "openalex": "W4392472675",
+      "references": 22,
+      "citing": 27
+    },
+    "R3639": {
+      "openalex": "W2062476288",
+      "references": 31,
+      "citing": 277
+    },
+    "R2844": "not in OpenAlex",
+    "R0243": {
+      "openalex": "W7220556312",
+      "references": 6,
+      "citing": 0
+    }
+  },
+  "unique_records_found": 708,
+  "new_not_in_search": 161,
+  "new_with_kratom_term": 0
+}

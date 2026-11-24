@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Kratom use disorder among people who use kratom: data and code"
+type: dataset
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Rekhert
+    given-names: Martin
+    orcid: "https://orcid.org/0009-0001-2402-2031"
+    affiliation: "Higher School of Psychology, Turan University, Almaty, Kazakhstan"
+repository-code: "https://github.com/neabevz-hash/kratom-use-disorder-meta-analysis"
+keywords:
+  - kratom
+  - Mitragyna speciosa
+  - substance use disorder
+  - dependence
+  - prevalence
+  - meta-analysis
+preferred-citation:
+  type: article
+  title: "How common is kratom use disorder among people who use kratom? A systematic review and meta-analysis"
+  authors:
+    - family-names: Rekhert
+      given-names: Martin
+      orcid: "https://orcid.org/0009-0001-2402-2031"
+  year: 2026
+  notes: "Manuscript submitted for publication. Preprint: forthcoming"

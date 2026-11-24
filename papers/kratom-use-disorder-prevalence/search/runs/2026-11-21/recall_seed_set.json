@@ -1,0 +1,88 @@
+{
+  "run": "2026-11-21",
+  "seed_studies": 9,
+  "in_screening_list": 9,
+  "studies": [
+    {
+      "study": "Assanangkornchai et al.",
+      "year": "2007",
+      "doi": "10.1080/10826080701205869",
+      "found": true,
+      "rec_id": "R4025",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Singh et al.",
+      "year": "2014",
+      "doi": "10.1016/j.drugalcdep.2014.03.017",
+      "found": true,
+      "rec_id": "R3639",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Saingam et al.",
+      "year": "2014",
+      "doi": "10.1080/08897077.2014.924464",
+      "found": true,
+      "rec_id": "R3635",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Singh et al.",
+      "year": "2015",
+      "doi": "10.1080/02791072.2015.1012610",
+      "found": true,
+      "rec_id": "R3541",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Singh et al.",
+      "year": "2019",
+      "doi": "10.2174/2405461503666180420120649",
+      "found": true,
+      "rec_id": "R3180",
+      "sources": "openalex;s2;crossref;citations;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Choo et al.",
+      "year": "2022",
+      "doi": "10.3390/healthcare10040746",
+      "found": true,
+      "rec_id": "R1946",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Smith et al.",
+      "year": "2022",
+      "doi": "10.1097/adm.0000000000000986",
+      "found": true,
+      "rec_id": "R2149",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Rogers et al.",
+      "year": "2024",
+      "doi": "10.1016/j.drugalcdep.2024.111329",
+      "found": true,
+      "rec_id": "R1402",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Hill et al.",
+      "year": "2024",
+      "doi": "10.1097/adm.0000000000001290",
+      "found": true,
+      "rec_id": "R1255",
+      "sources": "pubmed;europepmc;openalex;s2;scopus;crossref;citations;openaire",
+      "to_screen": true
+    }
+  ]
+}

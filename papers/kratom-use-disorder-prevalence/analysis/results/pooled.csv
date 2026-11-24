@@ -1,0 +1,11 @@
+analysis,k,n,cases,prev,lo,hi,pi_lo,pi_hi,tau2,I2,note
+L2 moderate-to-severe or dependence (primary),12,6649,860,29.1,6.9,69.4,0.1,99.4,8.756,99.6,
+L1 any use disorder,7,5974,1310,30.8,22.5,40.7,12,59.3,0.316,97.3,
+L3 severe use disorder,5,3116,146,5.1,2.7,9.3,1.2,18.8,0.453,91,
+"L2, Southeast Asia",5,709,397,55.6,1,99.4,0,100,28.854,NA,rma.glmm did not converge; lme4 glmer (bobyqa)
+"L2, North America",5,5706,393,10.2,4.8,20.5,1.5,45.3,0.849,98.1,
+"L2, Europe",2,234,70,NA,NA,NA,NA,NA,NA,NA,k < 3: not pooled
+"L1, North America",5,5706,1214,28.6,18.7,41,9.5,60.3,0.384,98.3,
+"L3, North America",4,2908,144,6.5,4.2,10,2.6,15.3,0.179,83.8,
+"L2, online consumers",6,5930,457,12.3,6.1,23.4,1.8,51.8,0.923,98.2,
+"L2, community users",4,431,378,91.8,36.3,99.6,2,100,8.086,96.7,

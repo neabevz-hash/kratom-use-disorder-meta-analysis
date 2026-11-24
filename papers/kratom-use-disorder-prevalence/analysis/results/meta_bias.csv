@@ -1,0 +1,3 @@
+test,estimate,p
+logit prevalence ~ 1/sqrt(n) (REML-HK),9.494,0.356
+journal vs grey literature (GLMM),0.372,0.845

@@ -1,0 +1,306 @@
+{
+  "_phrase_sets": {
+    "kratom_terms": [
+      "kratom",
+      "kratoms",
+      "krathom",
+      "kratum",
+      "ketum",
+      "kakuam",
+      "biak-biak",
+      "Mitragyna speciosa",
+      "mitragynine",
+      "7-hydroxymitragynine",
+      "mitragynine pseudoindoxyl"
+    ],
+    "pubmed_query": "\"kratom\"[tiab] OR \"kratoms\"[tiab] OR \"krathom\"[tiab] OR \"kratum\"[tiab] OR \"ketum\"[tiab] OR \"kakuam\"[tiab] OR \"biak-biak\"[tiab] OR \"Mitragyna speciosa\"[tiab] OR \"mitragynine\"[tiab] OR \"7-hydroxymitragynine\"[tiab] OR \"mitragynine pseudoindoxyl\"[tiab] OR \"Mitragyna\"[Mesh] OR kratom*[tiab]",
+    "non_en": [
+      "กระท่อม",
+      "ใบกระท่อม",
+      "кратом",
+      "митрагинин",
+      "クラトム",
+      "ミトラガイニン",
+      "卡痛",
+      "帽柱木",
+      "크라톰",
+      "daun ketum",
+      "air ketum",
+      "daun kratom"
+    ],
+    "core_phrases": [
+      "kratom",
+      "krathom",
+      "ketum",
+      "Mitragyna speciosa",
+      "mitragynine"
+    ],
+    "crossref_queries": [
+      "kratom",
+      "kratom use",
+      "kratom users",
+      "kratom dependence",
+      "kratom use disorder",
+      "ketum",
+      "krathom",
+      "Mitragyna speciosa",
+      "mitragynine"
+    ],
+    "scopus_query": "TITLE-ABS-KEY(kratom OR krathom OR kratum OR ketum OR kakuam OR \"biak-biak\" OR \"mitragyna speciosa\" OR mitragynine OR \"7-hydroxymitragynine\")",
+    "syntheses_cited": [
+      "10.1080/15332640.2026.2706579",
+      "10.1159/000539338",
+      "10.1080/00952990.2025.2609965",
+      "10.1080/02791072.2025.2465797",
+      "10.1080/10826084.2026.2697988",
+      "10.1016/j.drugalcdep.2017.10.012",
+      "10.1080/02791072.2018.1562133"
+    ]
+  },
+  "pubmed": {
+    "records": 1203,
+    "meta": {
+      "queries": [
+        {
+          "query": "\"kratom\"[tiab] OR \"kratoms\"[tiab] OR \"krathom\"[tiab] OR \"kratum\"[tiab] OR \"ketum\"[tiab] OR \"kakuam\"[tiab] OR \"biak-biak\"[tiab] OR \"Mitragyna speciosa\"[tiab] OR \"mitragynine\"[tiab] OR \"7-hydroxymitragynine\"[tiab] OR \"mitragynine pseudoindoxyl\"[tiab] OR \"Mitragyna\"[Mesh] OR kratom*[tiab]",
+          "count": 1203,
+          "warnings": null
+        }
+      ],
+      "unique_pmids": 1203
+    },
+    "searched_at_utc": "2026-11-21T15:05:12+00:00",
+    "seconds": 16.6
+  },
+  "europepmc": {
+    "records": 1213,
+    "meta": {
+      "queries": [
+        {
+          "query": "TITLE_ABS:\"kratom\" OR TITLE_ABS:\"kratoms\" OR TITLE_ABS:\"krathom\" OR TITLE_ABS:\"kratum\" OR TITLE_ABS:\"ketum\" OR TITLE_ABS:\"kakuam\" OR TITLE_ABS:\"biak-biak\" OR TITLE_ABS:\"Mitragyna speciosa\" OR TITLE_ABS:\"mitragynine\" OR TITLE_ABS:\"7-hydroxymitragynine\" OR TITLE_ABS:\"mitragynine pseudoindoxyl\"",
+          "count": 1213
+        }
+      ]
+    },
+    "searched_at_utc": "2026-11-21T15:05:23+00:00",
+    "seconds": 10.7
+  },
+  "openalex": {
+    "records": 2903,
+    "meta": {
+      "filters": [
+        {
+          "filter": "title_and_abstract.search:\"kratom\"|\"kratoms\"|\"krathom\"|\"kratum\"|\"ketum\"|\"kakuam\"|\"biak-biak\"|\"Mitragyna speciosa\"|\"mitragynine\"|\"7-hydroxymitragynine\"|\"mitragynine pseudoindoxyl\"",
+          "count": 2903
+        }
+      ]
+    },
+    "searched_at_utc": "2026-11-21T15:05:43+00:00",
+    "seconds": 20.6
+  },
+  "openalex_non_en": {
+    "records": 72,
+    "meta": {
+      "filters": [
+        {
+          "filter": "title_and_abstract.search:\"กระท่อม\"",
+          "count": 5
+        },
+        {
+          "filter": "title_and_abstract.search:\"ใบกระท่อม\"",
+          "count": 2
+        },
+        {
+          "filter": "title_and_abstract.search:\"кратом\"",
+          "count": 2
+        },
+        {
+          "filter": "title_and_abstract.search:\"митрагинин\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"クラトム\"",
+          "count": 1
+        },
+        {
+          "filter": "title_and_abstract.search:\"ミトラガイニン\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"卡痛\"",
+          "count": 2
+        },
+        {
+          "filter": "title_and_abstract.search:\"帽柱木\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"크라톰\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"daun ketum\"",
+          "count": 3
+        },
+        {
+          "filter": "title_and_abstract.search:\"air ketum\"",
+          "count": 2
+        },
+        {
+          "filter": "title_and_abstract.search:\"daun kratom\"",
+          "count": 56
+        }
+      ]
+    },
+    "searched_at_utc": "2026-11-21T15:05:52+00:00",
+    "seconds": 8.3
+  },
+  "s2": {
+    "records": 2430,
+    "meta": {
+      "queries": [
+        {
+          "query": "\"kratom\" | \"kratoms\" | \"krathom\" | \"kratum\" | \"ketum\" | \"kakuam\" | \"biak-biak\" | \"Mitragyna speciosa\" | \"mitragynine\" | \"7-hydroxymitragynine\" | \"mitragynine pseudoindoxyl\"",
+          "count": 2430
+        }
+      ]
+    },
+    "searched_at_utc": "2026-11-21T15:06:01+00:00",
+    "seconds": 9.8
+  },
+  "crossref": {
+    "records": 2165,
+    "meta": {
+      "queries": {
+        "kratom": {
+          "scanned": 1316,
+          "kept_new": 1292
+        },
+        "kratom use": {
+          "scanned": 3000,
+          "kept_new": 0
+        },
+        "kratom users": {
+          "scanned": 3000,
+          "kept_new": 0
+        },
+        "kratom dependence": {
+          "scanned": 3000,
+          "kept_new": 0
+        },
+        "kratom use disorder": {
+          "scanned": 3000,
+          "kept_new": 0
+        },
+        "ketum": {
+          "scanned": 32,
+          "kept_new": 18
+        },
+        "krathom": {
+          "scanned": 6,
+          "kept_new": 6
+        },
+        "Mitragyna speciosa": {
+          "scanned": 3000,
+          "kept_new": 586
+        },
+        "mitragynine": {
+          "scanned": 459,
+          "kept_new": 263
+        }
+      }
+    },
+    "searched_at_utc": "2026-11-21T15:06:43+00:00",
+    "seconds": 41.9
+  },
+  "datacite": {
+    "records": 817,
+    "meta": {
+      "queries": [
+        {
+          "query": "titles.title:(\"kratom\" OR \"kratoms\" OR \"krathom\" OR \"kratum\" OR \"ketum\" OR \"kakuam\" OR \"biak-biak\" OR \"Mitragyna speciosa\" OR \"mitragynine\" OR \"7-hydroxymitragynine\" OR \"mitragynine pseudoindoxyl\") OR descriptions.description:(\"kratom\" OR \"kratoms\" OR \"krathom\" OR \"kratum\" OR \"ketum\" OR \"kakuam\" OR \"biak-biak\" OR \"Mitragyna speciosa\" OR \"mitragynine\" OR \"7-hydroxymitragynine\" OR \"mitragynine pseudoindoxyl\") OR subjects.subject:(\"kratom\" OR \"kratoms\" OR \"krathom\" OR \"kratum\" OR \"ketum\" OR \"kakuam\" OR \"biak-biak\" OR \"Mitragyna speciosa\" OR \"mitragynine\" OR \"7-hydroxymitragynine\" OR \"mitragynine pseudoindoxyl\")",
+          "total": 817
+        }
+      ]
+    },
+    "searched_at_utc": "2026-11-21T15:20:14+00:00",
+    "seconds": 38.9
+  },
+  "openaire": {
+    "records": 2447,
+    "meta": {
+      "type": "publication",
+      "queries": {
+        "\"kratom\" OR \"krathom\" OR \"ketum\" OR \"Mitragyna speciosa\" OR \"mitragynine\"": {
+          "numFound": 2447,
+          "retrieved": 2457
+        }
+      }
+    },
+    "searched_at_utc": "2026-11-21T15:08:20+00:00",
+    "seconds": 46.1
+  },
+  "core": {
+    "records": 2308,
+    "meta": {
+      "queries": {
+        "title:\"kratom\" OR abstract:\"kratom\"": {
+          "totalHits": 1400,
+          "scanned": 1400,
+          "dropped_phrase_not_in_title_or_abstract": 0
+        },
+        "title:\"krathom\" OR abstract:\"krathom\"": {
+          "totalHits": 5,
+          "scanned": 5,
+          "dropped_phrase_not_in_title_or_abstract": 0
+        },
+        "title:\"ketum\" OR abstract:\"ketum\"": {
+          "totalHits": 277,
+          "scanned": 277,
+          "dropped_phrase_not_in_title_or_abstract": 0
+        },
+        "title:\"Mitragyna speciosa\" OR abstract:\"Mitragyna speciosa\"": {
+          "totalHits": 1035,
+          "scanned": 1035,
+          "dropped_phrase_not_in_title_or_abstract": 20
+        },
+        "title:\"mitragynine\" OR abstract:\"mitragynine\"": {
+          "totalHits": 826,
+          "scanned": 826,
+          "dropped_phrase_not_in_title_or_abstract": 0
+        }
+      },
+      "authenticated": true
+    },
+    "searched_at_utc": "2026-11-21T15:17:36+00:00",
+    "seconds": 555.7
+  },
+  "scopus": {
+    "records": 1778,
+    "meta": {
+      "query": "TITLE-ABS-KEY(kratom OR krathom OR kratum OR ketum OR kakuam OR \"biak-biak\" OR \"mitragyna speciosa\" OR mitragynine OR \"7-hydroxymitragynine\")",
+      "total": 1778
+    },
+    "searched_at_utc": "2026-11-21T15:18:47+00:00",
+    "seconds": 70.8
+  },
+  "citations": {
+    "records": 190,
+    "meta": {
+      "referenced_works_per_synthesis": {
+        "10.1080/15332640.2026.2706579": 52,
+        "10.1159/000539338": 131,
+        "10.1080/00952990.2025.2609965": 32,
+        "10.1080/02791072.2025.2465797": 23,
+        "10.1080/10826084.2026.2697988": 52,
+        "10.1016/j.drugalcdep.2017.10.012": 45,
+        "10.1080/02791072.2018.1562133": 22
+      },
+      "unique_references": 276,
+      "kept_kratom": 190,
+      "dropped_no_kratom_term": 86
+    },
+    "searched_at_utc": "2026-11-21T15:18:55+00:00",
+    "seconds": 7.8
+  }
+}

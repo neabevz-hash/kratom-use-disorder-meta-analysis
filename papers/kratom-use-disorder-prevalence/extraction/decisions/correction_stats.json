@@ -1,0 +1,15 @@
+{
+  "verified_samples": 14,
+  "drafted_estimates": 98,
+  "drafted_values": 1596,
+  "values_corrected": 4,
+  "share_corrected": 0.0025,
+  "key_values": 560,
+  "key_values_corrected": 1,
+  "share_key_corrected": 0.0018,
+  "estimates_added_by_R1": 0,
+  "by_field": {
+    "estimate.subgroup": 3,
+    "estimate.level": 1
+  }
+}

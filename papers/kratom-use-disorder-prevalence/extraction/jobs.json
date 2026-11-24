@@ -1,0 +1,164 @@
+[
+ {
+  "job_id": "R0060",
+  "study_id": "ST01",
+  "main": "R0060",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: 100 daily male kratom users, Penang community, 2024-2025.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0816",
+  "study_id": "ST02",
+  "main": "R0816",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: the kratom users of the US online survey of kava and kratom users (2023-2024); kava-only users are not part of it. If people who use both are reported separately, keep all kratom users as the sample.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0922",
+  "study_id": "ST03",
+  "main": "R0922",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: the conscripts who used kratom (state the reference period used for the denominator: lifetime, past 12 months or current). Extract SUDST and ASSIST estimates for them.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1857",
+  "study_id": "ST04",
+  "main": "R1857",
+  "attached": [
+   "R1161"
+  ],
+  "listed_only": [],
+  "link_reason": "Same Penang case-control sample of 60 regular kratom users (USM/AMDI, recruited 2019-2020): R1857 (PLOS ONE 2023) and R1161 (PhD thesis, 2024)",
+  "samples": "One sample: the 60 regular kratom users (controls are not part of it). R1857 gives the DSM-5 assessment by a psychiatrist; R1161 (attached) gives KDS results if reported.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1294",
+  "study_id": "ST05",
+  "main": "R1294",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: the adults who used kratom (state whether lifetime or past-30-day users are the denominator of the SDS estimate).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1402",
+  "study_id": "ST06",
+  "main": "R1402",
+  "attached": [
+   "R1425"
+  ],
+  "listed_only": [],
+  "link_reason": "Same NIDA nationwide remote EMA study of US adults who use kratom regularly (enrolled July-November 2022, n = 395 surveyed): R1402 (baseline DSM-5 KUD by severity) and R1425 (EMA paper)",
+  "samples": "One sample: the 395 surveyed at baseline. Use R1402 for the DSM-5 estimates; R1425 (attached) only for values R1402 does not give.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R2039",
+  "study_id": "ST07",
+  "main": "R2039",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: 10 regular kratom users interviewed in Czechia (LDQ scores).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R2129",
+  "study_id": "ST08",
+  "main": "R2129",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: the long-term kratom users (controls are not part of it); KDS bands.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R2149",
+  "study_id": "ST09",
+  "main": "R2149",
+  "attached": [
+   "R2153"
+  ],
+  "listed_only": [],
+  "link_reason": "Same US mTurk re-contact survey of adults with lifetime kratom use (April-May 2021, n = 129 evaluable): R2149 (KUD and withdrawal) and R2153 (dose-effect paper)",
+  "samples": "One sample: the 129 evaluable respondents (or the denominator R2149 uses for KUD). Use R2149; R2153 (attached) only for values R2149 does not give.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R2648",
+  "study_id": "ST10",
+  "main": "R2648",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: the Johns Hopkins online survey of kratom users (2017).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1255",
+  "study_id": "ST12",
+  "main": "R1255",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: the current US kratom consumers of the 2023 online survey (n = 2,061).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R2844",
+  "study_id": "ST13",
+  "main": "R2844",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: 150 regular kratom users in Malaysia (KDS, Malay version).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0243",
+  "study_id": "ST14",
+  "main": "R0243",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "One sample: the hospital support staff who used kratom (state whether lifetime leaf users, kratom cocktail users or both are the denominator); ASSIST risk bands for kratom.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R3639",
+  "study_id": "ST15",
+  "main": "R3639",
+  "attached": [
+   "R3754"
+  ],
+  "listed_only": [],
+  "link_reason": "Same sample of 293 regular male kratom users in Penang, Kedah and Perlis: R3639 (Singh, Müller & Vicknasingam 2014, Drug and Alcohol Dependence) and R3754 (thesis, USM; incomplete text)",
+  "samples": "One sample: the 293 regular kratom users. Use R3639 (LDQ categories); R3754 (attached) only for values R3639 does not give.",
+  "job_notes": "",
+  "possible_overlap": []
+ }
+]

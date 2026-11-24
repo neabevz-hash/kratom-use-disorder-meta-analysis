@@ -1,0 +1,25 @@
+sample_id,first_author,year,country,region,sample_type,level,code,instrument,time_frame,cases,n,pct,how
+S01,Ang,2026,MYS,Southeast Asia,community_users,L2,L2-scale,KDS,past 12 months,55,100,55,sum of bands
+S02,Hill,2025,USA,North America,online_consumers,L1,L1,DSM-5-SUD,past 12 months,123,323,38.1,direct
+S02,Hill,2025,USA,North America,online_consumers,L2,L2,DSM-5-SUD,past 12 months,63,323,19.5,sum of bands
+S02,Hill,2025,USA,North America,online_consumers,L3,L3,DSM-5-SUD,past 12 months,34,323,10.5,direct
+S03,Nimphae,2025,THA,Southeast Asia,other,L1,L1,SUDST,past 12 months,71,208,34.1,direct
+S03,Nimphae,2025,THA,Southeast Asia,other,L2,L2,SUDST,past 12 months,25,208,12,sum of bands
+S03,Nimphae,2025,THA,Southeast Asia,other,L3,L3,SUDST,past 12 months,2,208,1,direct
+S04,Yang,2023,MYS,Southeast Asia,community_users,L1,L1,interview,past 12 months,25,60,41.7,direct
+S05,Koktavá,2024,CZE,Europe,online_consumers,L2,L2-scale,SDS,NR,64,224,28.6,direct
+S06,Rogers,2024,USA,North America,online_consumers,L1,L1,DSM-5-SUD,past 12 months,184,395,46.6,direct
+S06,Rogers,2024,USA,North America,online_consumers,L2,L2,DSM-5-SUD,past 12 months,76,395,19.2,sum of bands
+S06,Rogers,2024,USA,North America,online_consumers,L3,L3,DSM-5-SUD,past 12 months,26,395,6.6,direct
+S07,Kunová,2022,CZE,Europe,community_users,L2,L2-scale,LDQ,past week,6,10,60,sum of bands
+S08,Saengmolee,2022,THA,Southeast Asia,community_users,L2,L2-scale,KDS,NR,24,28,85.7,sum of bands
+S09,Smith,2022,USA,North America,online_consumers,L1,L1,DSM-5-SUD,past 12 months,38,129,29.5,direct
+S09,Smith,2022,USA,North America,online_consumers,L2,L2,DSM-5-SUD,past 12 months,20,129,15.5,sum of bands
+S09,Smith,2022,USA,North America,online_consumers,L3,L3,DSM-5-SUD,past 12 months,11,129,8.5,direct
+S10,Garcia-Romeu,2020,USA,North America,online_consumers,L1,L1,DSM-5-SUD,past 12 months,344,2798,12.3,n minus below
+S10,Garcia-Romeu,2020,USA,North America,online_consumers,L2,L2,DSM-5-SUD,past 12 months,56,2798,2,direct
+S11,Hill,2024,USA,North America,online_consumers,L1,L1,DSM-5-SUD,NR,525,2061,25.5,direct
+S11,Hill,2024,USA,North America,online_consumers,L2,L2,DSM-5-SUD,NR,178,2061,8.6,sum of bands
+S11,Hill,2024,USA,North America,online_consumers,L3,L3,DSM-5-SUD,NR,73,2061,3.5,direct
+S13,Kanchanasim,2026,THA,Southeast Asia,other,L2,L2-screen,ASSIST,current,0,80,0,direct
+S14,Singh,2014,MYS,Southeast Asia,community_users,L2,L2-scale,LDQ,NR,293,293,100,sum of bands

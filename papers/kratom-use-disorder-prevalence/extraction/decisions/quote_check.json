@@ -1,0 +1,128 @@
+{
+  "estimates": {
+    "quotes_checked": 84,
+    "found_verbatim": 72,
+    "too_short_to_check": 14,
+    "share_found": 0.8571
+  },
+  "key_fields": {
+    "quotes_checked": 68,
+    "found_verbatim": 64,
+    "too_short_to_check": 2,
+    "share_found": 0.9412
+  },
+  "not_found": [
+    {
+      "job": "R0922",
+      "sample": "Conscripts at a fort in Ratchaburi Province, Thailand, 2023: lifetime kratom lea",
+      "item": "use_period",
+      "quote": "Kratom leaves 208 52.0 133 33.3 [Lifetime n (%), Past 3 months n (%)]; Table 5: Kratom leaves (n = 208)",
+      "not_found": "kratomleaves208520133333table5kratomleavesn208"
+    },
+    {
+      "job": "R1294",
+      "sample": "Czech online survey of adults who used kratom, Facebook kratom groups, Feb-Mar 2",
+      "item": "n_users",
+      "quote": "Graf 20 Počty bodů u jednotlivých respondentů (n = 224) [Scores of individual respondents]; 224 (86,5 %), že užili kratom v posledních 30 dnech",
+      "not_found": "graf20počtybodůujednotlivýchrespondentůn224224865žeužilikratomvposledních30dnech"
+    },
+    {
+      "job": "R2129",
+      "sample": "Long-term kratom leaf chewers, Surat Thani & Songkhla, Thailand (EEG study), n=2",
+      "item": "E1",
+      "quote": "Dependent score ... Low (0-13) n(%) 4 (14.28)",
+      "not_found": "low013n41428"
+    },
+    {
+      "job": "R2129",
+      "sample": "Long-term kratom leaf chewers, Surat Thani & Songkhla, Thailand (EEG study), n=2",
+      "item": "E2",
+      "quote": "Moderate (13-34) n(%) 20 (71.44)",
+      "not_found": "moderate1334n207144"
+    },
+    {
+      "job": "R2129",
+      "sample": "Long-term kratom leaf chewers, Surat Thani & Songkhla, Thailand (EEG study), n=2",
+      "item": "E3",
+      "quote": "Hight (35-48) n(%) 4 (14.28)",
+      "not_found": "hight3548n41428"
+    },
+    {
+      "job": "R2129",
+      "sample": "Long-term kratom leaf chewers, Surat Thani & Songkhla, Thailand (EEG study), n=2",
+      "item": "use_period",
+      "quote": "we included LKU those who consumed Kratom ≥ two years due to Kratom-related unpleasant side effects [26] and who last consumed Kratom at least 2-hours before experimenting",
+      "not_found": "weincludedlkuthosewhoconsumedkratomtwoyearsduetokratomrelatedunpleasantsideeffectsandwholastconsumedkratomatleast2hoursbeforeexperimenting"
+    },
+    {
+      "job": "R2039",
+      "sample": "Czechia, regular (≥weekly) kratom users aged 15-34, snowball sample, qualitative",
+      "item": "E3",
+      "quote": "> 22 = vysoká závislost ... R4 18 (highest score)",
+      "not_found": "r418highestscore"
+    },
+    {
+      "job": "R2039",
+      "sample": "Czechia, regular (≥weekly) kratom users aged 15-34, snowball sample, qualitative",
+      "item": "E4",
+      "quote": "R2 M ... R3 M ... R6 M ... R7 M ... R8 M; LDQ R2 10 R3 11 R6 1 R7 16 R8 7",
+      "not_found": "r8mldqr210r311r61r716r87"
+    },
+    {
+      "job": "R2039",
+      "sample": "Czechia, regular (≥weekly) kratom users aged 15-34, snowball sample, qualitative",
+      "item": "E5",
+      "quote": "R1 Ž ... R4 Ž ... R5 Ž ... R9 Ž ... R10 Ž; LDQ R1 11 R4 18 R5 10 R9 6 R10 6",
+      "not_found": "r10žldqr111r418r510r96r106"
+    },
+    {
+      "job": "R2149",
+      "sample": "US mTurk re-contact survey of adults with lifetime kratom use, April-May 2021, n",
+      "item": "E1",
+      "quote": "Current KUD (N=38) 29.5% ... Full Sample (N=129); 29.5% met current (past-year) KUD threshold.",
+      "not_found": "fullsamplen129295metcurrentpastyearkudthreshold"
+    },
+    {
+      "job": "R2149",
+      "sample": "US mTurk re-contact survey of adults with lifetime kratom use, April-May 2021, n",
+      "item": "E6",
+      "quote": "Never KUD (N=68) 52.7%; Over half (52.7%) of respondents never met KUD diagnostic criteria",
+      "not_found": "neverkudn68527overhalf527ofrespondentsnevermetkuddiagnosticcriteria"
+    },
+    {
+      "job": "R2149",
+      "sample": "US mTurk re-contact survey of adults with lifetime kratom use, April-May 2021, n",
+      "item": "E7",
+      "quote": "Remitted± KUD (N=23) 17.8%; 17.8% were assessed remitted (based on DSM-5 remission criterion of 12 months without meeting diagnostic threshold)",
+      "not_found": "remittedkudn23178178wereassessedremittedbasedondsm5remissioncriterionof12monthswithoutmeetingdiagnosticthreshold"
+    },
+    {
+      "job": "R0243",
+      "sample": "Hospital support staff, tertiary hospital, Bangkok, Thailand, 2024: lifetime kra",
+      "item": "E1",
+      "quote": "ใบกระท่อม (n=80) 73 91.25 7 8.75 - - ; 0 - 3 คะแนน หมายถึง ระดับความเสี่ยงตํ่า [0-3 = low risk]",
+      "not_found": "ใบกระทอมn80739125787503คะแนนหมายถงระดบความเสยงตา"
+    },
+    {
+      "job": "R0243",
+      "sample": "Hospital support staff, tertiary hospital, Bangkok, Thailand, 2024: lifetime kra",
+      "item": "E2",
+      "quote": "ใบกระท่อม (n=80) 73 91.25 7 8.75 - - ; 4 - 26 คะแนน หมายถึง ระดับความเสี่ยงปานกลาง [4-26 = moderate risk]",
+      "not_found": "ใบกระทอมn807391257875426คะแนนหมายถงระดบความเสยงปานกลาง"
+    },
+    {
+      "job": "R0243",
+      "sample": "Hospital support staff, tertiary hospital, Bangkok, Thailand, 2024: lifetime kra",
+      "item": "E3",
+      "quote": "ใบกระท่อม (n=80) 73 91.25 7 8.75 - - ; 27 คะแนนขึ้นไป หมายถึง ระดับความเสี่ยงสูง [27+ = high risk]",
+      "not_found": "ใบกระทอมn80739125787527คะแนนขนไปหมายถงระดบความเสยงสง"
+    },
+    {
+      "job": "R0243",
+      "sample": "Hospital support staff, tertiary hospital, Bangkok, Thailand, 2024: lifetime kra",
+      "item": "use_period",
+      "quote": "ตลอดช่วงชีวิตที่ผ่านมา ... ใบกระท่อม 80 32.0 ... สารผสมนํ้าต้มใบกระท่อม 65 26.0 [lifetime: kratom leaf 80 (32.0%); kratom cocktail 65 (26.0%)], matching Table 8 n=80 and n=65",
+      "not_found": "สารผสมนาตมใบกระทอม65260matchingtable8n80andn65"
+    }
+  ]
+}

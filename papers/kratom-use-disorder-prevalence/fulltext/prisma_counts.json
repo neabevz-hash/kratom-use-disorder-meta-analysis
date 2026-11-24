@@ -1,0 +1,45 @@
+{
+  "identification": {
+    "records_per_source": {
+      "pubmed": 1203,
+      "europepmc": 1213,
+      "openalex": 2903,
+      "openalex_non_en": 72,
+      "s2": 2430,
+      "scopus": 1778,
+      "crossref": 2165,
+      "citations": 190,
+      "datacite": 817,
+      "openaire": 2447,
+      "core": 2308
+    },
+    "records_total": 17526,
+    "duplicates_removed": 13143,
+    "removed_before_screening": {
+      "non_study_records": 118,
+      "vendor_advertising": 33,
+      "outside_concept_b": 1928
+    }
+  },
+  "screening": {
+    "records_screened": 2304,
+    "records_excluded": 2069,
+    "reports_sought": 235,
+    "reports_not_retrieved": 141,
+    "reports_assessed": 94,
+    "reports_excluded": {
+      "no use-disorder or dependence measure for kratom": 42,
+      "design (review, qualitative without counts, case series, preclinical)": 9,
+      "no extractable counts": 9,
+      "no estimate for people who use kratom": 8,
+      "duplicate or component of another report": 7,
+      "sample recruited because of kratom problems": 1
+    },
+    "reports_included": 18
+  },
+  "check": {
+    "retrieved_with_r1_decision": 87,
+    "retrieved": 87,
+    "linked_components": 7
+  }
+}
